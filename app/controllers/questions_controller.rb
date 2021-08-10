@@ -1,6 +1,6 @@
 class QuestionsController < ApplicationController
   def ask
-  endd
+  end
 
   def answer
     @answer = params[:answer]
